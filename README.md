@@ -21,8 +21,8 @@ A beautiful, clean, and distraction-free Pomodoro timer to help you stay focused
 
 1. Clone the repository
 ```bash
-git clone <repository-url>
-cd pomodoro-timer
+git clone https://github.com/rominatestgorilla/myPomodoro.git
+cd myPomodoro
 ```
 
 2. Install dependencies
@@ -58,4 +58,4 @@ This timer embraces minimalism to reduce distractions and help you focus on what
 
 ---
 
-*Built with ❤️ for productivity enthusiasts* 
+*Built with ❤️ for productivity enthusiasts*
